@@ -1,6 +1,4 @@
-# Project Name README
-
-Welcome to [Project Name]!
+MIT App Inventor Projects
 
 ## Getting Started
 
