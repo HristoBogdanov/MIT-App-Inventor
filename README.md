@@ -30,6 +30,6 @@ Your project is now imported and ready to be explored! Start working on it and b
 
 ## Additional Information
 
-For more details on using MIT App Inventor, refer to the official documentation at [MIT App Inventor Documentation](https://appinventor.mit.edu/explore/ai2/support/documentation.html).
+For more details on using MIT App Inventor, refer to the official documentation at [MIT App Inventor Official Website](https://appinventor.mit.edu/).
 
 Feel free to reach out if you have any questions or encounter issues. Happy coding!
